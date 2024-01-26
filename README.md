@@ -3,3 +3,6 @@ This shader code was created in Unity version 2019.4.31f1. Compatibility with ve
 
 # Included Files
 Liquid Shader, Custom Editor, Prefab, Material
+
+# Release
+https://github.com/MissingE/Unity-LiquidShader/releases/tag/v1.0.0
